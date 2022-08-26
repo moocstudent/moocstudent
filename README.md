@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ShangHai China
-- 🌱 I’m currently learning Effective Java
-- 👯 I’m looking to collaborate on WebFlux & R2dbc demo list
-- 🤔 I’m looking for help with some algorithm at codewars.com
-- 💬 Ask me about Java,SpringProjects,codewars.com
-- 📫 How to reach me: blog: [cnblogs/ukzq](https://www.cnblogs.com/ukzq/)
-- 😄 Pronouns: [Rock](https://moocstudent.github.io/tools.html)
-- ⚡ Fun fact: programming is just like video game
+- 🔭 I’m working in ShangHai China currently. (but for now I'm seaking a offer)
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=moocstudent&show_icons=true&theme=gruvbox" />
